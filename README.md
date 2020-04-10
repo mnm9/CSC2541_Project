@@ -1,3 +1,3 @@
 # CSC2541_Project
-This project is requirement for course CSC2541 - Topics in Machine Learning: Machine Learning for Health at University of Toronto and is in collaboration with Emory University. 
+This project is requirement for course CSC2541 - Topics in Machine Learning: Machine Learning for Health at University of Toronto and is in collaboration with Emory University. <br>
 The objective of the project is to classify brands of cervical spine implants using X-ray images.
