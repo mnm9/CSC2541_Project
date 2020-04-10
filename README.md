@@ -1,4 +1,4 @@
-# CSC2541 Project
+# CSC2541 Project Winter 2020
 Jahangir Khan, Miti Modi, Shaveer Bajpeyi, Dylan Mendonca<br><br>
 This project is requirement for course CSC2541 - Topics in Machine Learning: Machine Learning for Health at University of Toronto and is in collaboration with Emory University. <br>
 The objective of the project is to classify brands of cervical spine implants using X-ray images.<br>
