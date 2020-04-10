@@ -6,6 +6,7 @@ Two separate models were built for classifying anterior hardware and posterior h
 Anterior Hardware Brands: Atlantis[0], Archon[1], Maxan[2], Helix[3], Zevo[3]<br>
 Posterior Hardware Brands: Mountaineer[0], Arch[1], Vertex[2], Virage[3], Oasys[3], Centerpiece/Vertex[3]<br><br>
 
+Following notebooks can be found in folders below:<br>
 1) **preprocessing**: Data preprocessing and exploration<br>
 2) **shallow_ML**: Linear regression and XGBoost models<br>
 3) **pure_pretrained**: ResNet transfer learning <br>
