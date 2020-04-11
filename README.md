@@ -11,7 +11,7 @@ Following notebooks can be found in folders below:<br>
 1) **preprocessing**: Data preprocessing and exploration<br>
 2) **shallow_ML**: Linear regression and XGBoost models<br>
 3) **pure_pretrained**: ResNet transfer learning <br>
-4) **data_centered**: Transfer learning with more complex augmentation like cropping<br>
+4) **data_centered**: Transfer learning with more complex augmentation like cropping, adaptive historgram equalization, monochromatic inversion, contrast stretching, huw/contrast adjustments etc.<br>
 5) **multiview_basic**: Appending view features<br>
 6) **multiview_advanced**: AuxLoss, HEMIS<br>
 7) **interpretability**: Gradient based & Occlusion base attribution to interpred multiview_basic models 
